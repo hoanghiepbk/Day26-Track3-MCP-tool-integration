@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py"],
+      "cwd": "/ABSOLUTE/PATH/TO/Day26-Track3-MCP-tool-integration/implementation",
+      "timeout": 10000,
+      "trust": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+implementation/lab.db
+implementation/.npm-cache/
+.npm-cache/
+*.log
+.DS_Store

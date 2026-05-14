@@ -1,0 +1,4 @@
+# Drop into ~/.codex/config.toml (replace the absolute path).
+[mcp_servers.sqlite_lab]
+command = "python"
+args = ["/ABSOLUTE/PATH/TO/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py"]
